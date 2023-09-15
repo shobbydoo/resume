@@ -84,7 +84,7 @@ html,body{
   line-height:1;
   span.the-arrow1{
     .arrow(63px, 75px, #99C5DE, 12px);
-    transform:rotateY(180deg);
+    transform:rotateY(1800deg);
   }
 }
 .bubble2{
